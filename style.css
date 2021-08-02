@@ -1,0 +1,14 @@
+body{
+  height: 95vh;
+  width: 95;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color:#0431B4;
+  font-family: fantasy;
+}
+canvas{
+    border: solid 6px darkblue;
+}
+
